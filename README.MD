@@ -1,0 +1,3 @@
+# README
+
+Rust greeter.
