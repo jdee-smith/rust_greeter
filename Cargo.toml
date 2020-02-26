@@ -1,0 +1,5 @@
+[package]
+name = "rust_greeter"
+version = "0.1.0"
+authors = ["Jason Smith <smit3448@gmail.com>"]
+edition = "2018"
